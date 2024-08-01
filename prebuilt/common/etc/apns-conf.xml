@@ -3693,6 +3693,8 @@
   <apn carrier="Movistar MMS" mcc="704" mnc="03" apn="mms.movistar.gt" proxy="" port="" mmsproxy="10.12.22.1" mmsport="80" mmsc="http://mms.movistar.gt" user="movistargt" password="movistargt" type="mms" />
   <apn carrier="Movistar INTERNET" mcc="704" mnc="030" apn="internet.movistar.gt" user="movistargt" password="movistargt" type="default,supl" />
   <apn carrier="Movistar MMS" mcc="704" mnc="030" apn="mms.movistar.gt" proxy="" port="" mmsproxy="10.12.22.1" mmsport="80" mmsc="http://mms.movistar.gt" user="movistargt" password="movistargt" type="mms" />
+  <apn carrier="Claro GT" mcc="704" mnc="01" apn="internet.ideasclaro" type="default,supl" />
+  <apn carrier="Claro GT MMS" mcc="704" mnc="01" apn="mms.ideasclaro" mmsc="http://mms.ideasclaro.com:8002" mmsproxy="216.230.133.66" mmsport="8080" type="mms" />
   <apn carrier="Claro SV" mcc="706" mnc="01" apn="internet.claro.sv" type="default,supl" />
   <apn carrier="Claro SV MMS" mcc="706" mnc="01" apn="mms.claro.sv" mmsc="http://mms.claro.sv" mmsproxy="216.230.133.66" mmsport="8080" type="mms" />
   <apn carrier="Digicel Web" mcc="706" mnc="02" apn="web" user="" password="" type="default,supl" />
@@ -3712,6 +3714,8 @@
   <apn carrier="MMS TIGO HN" mcc="708" mnc="02" apn="mms.tigo.hn" user="" password="" mmsproxy="10.16.17.12" mmsport="8888" mmsc="http://mms" type="mms" />
   <apn carrier="INTERNET TIGO HN" mcc="708" mnc="020" apn="internet.tigo.hn" user="" password="" proxy="" port="" type="default,supl" />
   <apn carrier="MMS TIGO HN" mcc="708" mnc="020" apn="mms.tigo.hn" user="" password="" mmsproxy="10.16.17.12" mmsport="8888" mmsc="http://mms" type="mms" />
+  <apn carrier="Claro HN" mcc="708" mnc="001" apn="internet.ideasclaro" type="default,supl" />
+  <apn carrier="Claro HN MMS" mcc="708" mnc="001" apn="mms.megatel.hn" mmsc="http://10.6.32.27/servlets/mms" mmsproxy="10.6.32.2" mmsport="8080" type="mms" />
   <apn carrier="Enitel" mcc="710" mnc="21" apn="internet.ideasalo.ni" type="default,supl,dun" user="internet" password="internet" authtype="1" />
   <apn carrier="Enitel MMS" mcc="710" mnc="21" apn="mms.ideasalo.ni" user="mms" password="mms" mmsproxy="10.6.32.2" mmsport="8080" mmsc="http://10.6.32.27/servlets/mms" authtype="1" type="mms" />
   <apn carrier="Movistar INTERNET" mcc="710" mnc="30" apn="internet.movistar.ni" user="movistarni" password="movistarni" authtype="1" type="default,supl" />
