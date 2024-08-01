@@ -3671,6 +3671,7 @@
   <apn carrier="Orange BW MMS" mcc="652" mnc="02" apn="mms.orange.co.bw" mmsc="http://10.0.0.242/servlets/mms" mmsproxy="10.0.0.226" mmsport="8080" type="mms" />
   <apn carrier="Orange WAP BW" mcc="652" mnc="02" apn="internet.orange.co.bw" proxy="10.0.0.226" port="8080" type="default,supl" />
   <apn carrier="MTN" mcc="653" mnc="10" apn="mymtn.co.sz" proxy="" port="" user="" password="" mmsc="" authtype="1" type="default,supl" />
+  <apn carrier="Afrihost" mcc="655" mnc="10" apn="afrihost" type="default,supl" />
   <apn carrier="Vlive!" mcc="655" mnc="01" apn="internet" proxy="196.6.128.12" port="8080" mmsc="" user="" password="" authtype="3" type="default,supl" />
   <apn carrier="Vlive!MMS" mcc="655" mnc="01" apn="mms.vodacom.net" proxy="" port="" mmsproxy="196.6.128.13" mmsport="8080" mmsc="http://mmsc.vodacom4me.co.za" user="" password="" authtype="3" type="mms" />
   <apn carrier="Vodacom ZA" mcc="655" mnc="01" apn="internet" type="default,supl" />
