@@ -26,6 +26,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Changelog.txt
 
+# ColumbusService
+ifneq ($(TARGET_SUPPORTS_QUICK_TAP),false)
+PRODUCT_PACKAGES += \
+    ColumbusService
+endif
+
 # Udfps icons
 ifeq ($(EXTRA_UDFPS_ICONS),true)
 PRODUCT_PACKAGES += \
